@@ -79,7 +79,6 @@ def obtener_palabra_oculta():
             resultado = resultado + "_ "
     return resultado.strip()
 
-
 def jugador_gano():
     """Devuelve True si todas las letras de la palabra fueron adivinadas."""
     for letra in palabra_secreta:
