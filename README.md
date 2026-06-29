@@ -1,5 +1,8 @@
 # Juego del Ahorcado — Python
 
+Nombre : Carlos Lozada
+Institucion: Universidad Internacional del Ecuador
+Materia: Logica de Programacion.
 Proyecto académico desarrollado en Python para la materia de **Lógica de Programación**.  
 Implementa el clásico juego del Ahorcado en consola, aplicando una **Arquitectura en 3 Capas**.
 
