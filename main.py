@@ -13,7 +13,7 @@ import capas.control as control
 
 
 # --- Ruta al archivo de palabras ---
-RUTA_PALABRAS = "data/prueba.txt"
+RUTA_PALABRAS = "data/palabras.txt"
 
 
 # --- Cargar las palabras una sola vez al inicio ---
